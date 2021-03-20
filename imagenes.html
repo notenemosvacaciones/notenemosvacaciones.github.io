@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Imagenes</title>
+    <link href='css/nav.css' rel='stylesheet'/>
+	<link href='css/inicio.css' rel='stylesheet'/>
+
+	<!-- Link Swiper's CSS -->
+	<link rel="stylesheet" href="css/swiper.min.css">
+	<link rel="stylesheet" href="css/swiper.css">
+   
+</head>
+
+<nav>
+	<input id="nav-toggle" type="checkbox">
+	<div class="logo">ARIAS<strong>&nbsp;CAL</strong></div>
+	<ul class="links">
+
+		<li><a href="inicio.html">Inicio</a></li>
+		<li><a href="calendar.html">Calendario</a></li>
+		<li><a href="#about">Sobre</a></li>
+		<li><a class="inactiveLink" id="inicio" href="#projects">Imágenes</a></li>
+		<li><a href="#contact">Contacto</a></li>
+	</ul>
+	<label for="nav-toggle" class="icon-burger">
+		<div class="line"></div>
+		<div class="line"></div>
+		<div class="line"></div>
+	</label>
+</nav>
+
+<body>
+    
+	<header><i>coverflowEffect</i></header>
+	<!-- Swiper -->
+	<div class="swiper-container">
+	  <div class="swiper-wrapper">
+		<div class="swiper-slide" style="background-image:url(img/img1.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img2.jpeg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img3.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img4.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img5.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img6.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img7.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img8.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img9.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img10.jpeg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img11.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img12.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img13.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img14.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img15.jpg)"></div>
+		<div class="swiper-slide" style="background-image:url(img/img16.jpg)"></div>
+	  </div>
+	  <!-- Add Pagination -->
+	  <div class="swiper-pagination"></div>
+	</div>
+  
+	<!-- Swiper JS -->
+	<script src="js/swiper.min.js"></script>
+  
+	<!-- Initialize Swiper -->
+	<script>
+	  var swiper = new Swiper('.swiper-container', {
+		effect: 'coverflow',
+		grabCursor: true,
+		centeredSlides: true,
+		slidesPerView: 'auto',
+		coverflowEffect: {
+		  rotate: 50,
+		  stretch: 0,
+		  depth: 100,
+		  modifier: 1,
+		  slideShadows : true,
+		},
+		pagination: {
+		  el: '.swiper-pagination',
+		},
+	  });
+	</script>
+	
+	 
+
+</body>
+</html>
