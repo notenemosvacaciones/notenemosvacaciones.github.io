@@ -2,6 +2,36 @@ body {
 	padding: 0;
 	margin: 0;
 }
+
+
+
+
+#inicio{
+	opacity: 70%;
+	background-color: rgb(65, 64, 64);
+
+}
+
+a:hover {
+	background-color: rgb(105, 105, 102);
+  }
+
+  nav .links a:active {
+	font-size: 14px;
+	color: rgb(163, 160, 160);
+}
+
+.inactiveLink {
+	pointer-events: none;
+	cursor: default;
+ }
+
+
+
+
+
+
+
 .container {
 	position: relative;
 	margin-top: 100px;
