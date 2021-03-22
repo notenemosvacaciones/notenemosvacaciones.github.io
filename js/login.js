@@ -13,7 +13,7 @@ if(contra=="chiflis"){
 }
 else{
 
-    Swal.fire('Usuario o password incorrecto');
+    Swal.fire('Password incorrecto');
 }
 
 }
