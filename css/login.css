@@ -16,9 +16,8 @@ body{
 
 .login{
   margin: auto;
-  width: 50%;
-  max-width: 300px;
-  min-width: 280px;
+  width: 90%;
+  max-width: 400px;
   
   background: #381B1BB5;
   padding: 30px;
@@ -29,6 +28,8 @@ body{
 }
 
 img {
+  margin-top: 20ps;
+  margin-bottom: 20px;
   width: 60%;
   margin-left: 20%;
 }
@@ -36,16 +37,17 @@ img {
 h2{
   padding: 2%;
   text-align: center;
-  margin-bottom: 20px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   color: rgba(255, 255, 255, 0.8);
-  font-size: 4vmin;
+  font-size: 6vmin;
 }
 
 input{
   display: block;
   padding: 2%;
   width: 100%;
-  margin: 30px 0;
+  margin: 30px 0 50px 0px;
   font-size: 3.8vmin;
   border-radius: 10px;
 }
@@ -65,7 +67,7 @@ input[type=submit]{
   opacity: 0.8;
   cursor: pointer;
   border-radius: 20px;
-  margin-bottom: 100;
+  margin-bottom: 40px;
 }
 
 input[type=submit]:hover{
