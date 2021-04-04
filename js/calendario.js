@@ -3,7 +3,7 @@
     var calendarEl = document.getElementById('calendar');
     var calendar = new FullCalendar.Calendar(calendarEl, {
 
-        height: 550,
+        height: '100%',
 
         customButtons: {
             inicio: {
@@ -28,7 +28,7 @@
         },
 
 
-        contentHeight: 200,
+        contentHeight: "auto",
         eventColor: 'green',
         locale: 'es',
         buttonIcons: true,
