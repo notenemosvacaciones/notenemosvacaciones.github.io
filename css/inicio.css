@@ -44,6 +44,7 @@ body{
   h2, h3{
 	  text-align: center;
 	  padding-top: 20px;
+	  font-size: 3vmin;
   }
 
 .imagen1{
@@ -111,51 +112,22 @@ body{
 
 
 .fade {
-	animation-duration: 10s;
+	animation-duration: 4s;
 	animation-name: slidein;
   }
 
 @keyframes slidein {
 
-	0% {
-		margin-left: 100%;
-	 	 width: 300%;
-	  }
-  
-	  20% {
-		margin-left: 100%;
-		width: 300%;
-	  }
+		from {
+			margin-left: 100%;
+	 	 	width: 300%;
+		}
 
-	  30% {
-		margin-left: 100%;
-		width: 300%;
-	  }
-
-	  40% {
-		margin-left: 100%;
-		width: 300%;
-	  }
-
-	  60% {
-		margin-left: 100%;
-		width: 300%;
-	  }
-
-	  70% {
-		margin-left: 80%;
-		width: 200%;
-	  }
-
-	  80% {
-		margin-left: 60%;
-		width: 180%;
-	  }
-
-	  90% {
-		margin-left: 20%;
-		width: 160%;
-	  }
+ 		to {
+			margin-left: 20%;
+			width: 160%;
+		
+		}
 
 
 	

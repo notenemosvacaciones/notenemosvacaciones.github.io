@@ -37,14 +37,20 @@
                  events: [
 
                 {
+                    title: 'Angel día',
+                    start: '2021-04-15',
+                    end: '2021-04-15',
+                    color: 'red',
+                    textColor: 'white'
+                },    
+
+                {
                     title: 'Mercedes',
                     start: '2021-03-05',
                     end: '2021-03-05',
                     color: 'pink',
                     textColor: 'black',
                 },
-
-                
 
                 {
                     title: 'Oscar',
@@ -89,7 +95,15 @@
                 {
                     title: 'Alfonso baja',
                     start: '2021-01-19',
-                    end: '2021-01-19',
+                    end: '2021-04-12',
+                    color: 'red',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mayte baja',
+                    start: '2021-01-01',
+                    end: '2021-04-12',
                     color: 'red',
                     textColor: 'white'
                 },
@@ -104,7 +118,7 @@
 {
                     title: 'Laura baja',
                     start: '2021-03-09',
-                    end: '2021-03-29',
+                    end: '2021-04-08',
                     color: 'red',
                     textColor: 'white'
                 },

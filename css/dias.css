@@ -1,0 +1,32 @@
+
+body{
+	margin-top: 80px;
+	margin-left: 20px;
+	margin-bottom: 80px;
+	background-image: url(../img/colorado1.jpeg);
+	background-repeat: no-repeat;
+  	background-attachment: fixed;  
+  	background-size: cover;
+
+	
+  }
+
+  h2{
+    width: 80%;
+    max-width: 600px;
+	font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; 
+	color: #ffffff; 
+	font-size: 4vmin; 
+	font-weight: 400; 
+	text-align: center; 
+	background: #fa735b; 
+	margin: 0 auto; 
+	overflow: hidden; 
+	padding: 20px; 
+	border-radius: 35px 0px 35px 0px; 
+	-moz-border-radius: 35px 0px 35px 0px; 
+	-webkit-border-radius: 35px 0px 35px 0px; 
+	border: 2px solid #5878ca;
+	width: 80%;
+  }
+

@@ -1,15 +1,17 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
+
 <head>
     <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1">
-    <title>Sobre nosotros</title>
+    <link rel="icon" href="img/asus.ico" sizes="128x128" type="image/vnd.microsoft.icon">
+    <title>Sobre Nosotros</title>
     <link href='css/nav.css' rel='stylesheet'/>
-	<link rel="stylesheet" href="css/sobre.css">
+    <link href='css/sobre.css' rel='stylesheet'/>
+	
 	<script src='js/nombre.js'></script>
-
-   
+    <script src="js/modernizr.js" type="text/javascript"></script>
+    
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
 </head>
 
 <nav>
@@ -21,7 +23,7 @@
 		<li><a href="calendar.html">Calendario</a></li>
 		<li><a class="inactiveLink" id="inicio" href="#sobre.html">Sobre</a></li>
 		<li><a href="imagenes.html">Imágenes</a></li>
-		<li><a href="#dias.html">Días</a></li>
+		<li><a href="dias.html">Días</a></li>
 	</ul>
 	<label for="nav-toggle" class="icon-burger">
 		<div class="line"></div>
@@ -31,35 +33,59 @@
 </nav>
 
 <body>
+
+    <div class="container-text">
+        <h1>Nuestro maravilloso equipo</h1>
+        
+     </div>
+
+    <div class="container">
+        <div class="wrapper">
+
+            <ul id="sb-slider" class="sb-slider">
+                <li>
+                    <a href="#" target="_blank"><img src="img/mercedes.jpeg" alt="imagen1" /></a>
+                   
+                </li>
+                <li>
+                    <a href="#" target="_blank"><img src="img/rocio.jpg" alt="imagen2" /></a>
+                 
+                </li>
+                <li>
+                    <a href="#" target="_blank"><img src="img/laura.jpg" alt="imagen3" /></a>
+                    
+                </li>
+
+                <li>
+                    <a href="#" target="_blank"><img src="img/angel.jpg" alt="imagen4" /></a>
+                    
+                </li>
+
+                <li>
+                    <a href="#" target="_blank"><img src="img/oscar.jpg" alt="imagen5" /></a>
+                    
+                </li>
+
+                <li>
+                    <a href="#" target="_blank"><img src="img/david.jpg" alt="imagen6" /></a>
+                    
+                </li>
+               
+            </ul>
+
+            <div id="nav-arrows" class="nav-arrows">
+                <a href="#">Next</a>
+                <a href="#">Previous</a>
+            </div>
+
+        </div>
+    </div>
     
-	<div class="wrap">
-		<div class="tarjeta-wrap">
-			<div class="tarjeta">
-				<div class="adelante card1"></div>
-				<div class="atras">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ex velit beatae. Illum, suscipit, aspernatur!</p>
-				</div>
-			</div>
-		</div>
-		<div class="tarjeta-wrap">
-			<div class="tarjeta">
-				<div class="adelante card2"></div>
-				<div class="atras">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ex velit beatae. Illum, suscipit, aspernatur!</p>
-				</div>
-			</div>
-		</div>
-		<div class="tarjeta-wrap">
-			<div class="tarjeta">
-				<div class="adelante card3"></div>
-				<div class="atras">
-					<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ex velit beatae. Illum, suscipit, aspernatur!</p>
-				</div>
-			</div>
-		</div>
-	</div>
 
-	 
+<script src="js/jquery-3.3.1.min.js"></script>
+<script src="js/jquery.slicebox.js"></script>
 
+<script src="js/script.js"></script>
 </body>
+
 </html>

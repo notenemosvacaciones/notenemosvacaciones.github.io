@@ -8,6 +8,8 @@
 
 body{
   background: #DEDEDE;
+  margin-top: 80px;
+	margin-bottom: 80px;
   display: flex;
   min-height: 100vh;
   background-image: url("../img/lago.jpeg");

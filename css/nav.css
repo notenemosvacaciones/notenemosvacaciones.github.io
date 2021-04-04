@@ -3,9 +3,6 @@ body {
 	margin: 0;
 }
 
-
-
-
 #inicio{
 	opacity: 70%;
 	background-color: rgb(65, 64, 64);
@@ -25,12 +22,6 @@ a:hover {
 	pointer-events: none;
 	cursor: default;
  }
-
-
-
-
-
-
 
 .container {
 	position: relative;
