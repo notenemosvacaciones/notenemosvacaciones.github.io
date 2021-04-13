@@ -118,7 +118,7 @@
 {
                     title: 'Laura baja',
                     start: '2021-03-09',
-                    end: '2021-04-15',
+                    end: '2021-04-14',
                     color: 'red',
                     textColor: 'white'
                 },
