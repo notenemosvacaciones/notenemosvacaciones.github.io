@@ -45,9 +45,17 @@
                 },    
 
                 {
-                    title: 'Mercedes',
+                    title: 'Mercedes horas',
                     start: '2021-03-05',
                     end: '2021-03-05',
+                    color: 'pink',
+                    textColor: 'black',
+                },
+
+                {
+                    title: 'Mercedes horas',
+                    start: '2021-04-16',
+                    end: '2021-04-16',
                     color: 'pink',
                     textColor: 'black',
                 },
@@ -95,7 +103,7 @@
                 {
                     title: 'Alfonso baja',
                     start: '2021-01-19',
-                    end: '2021-04-12',
+                    end: '2021-04-30',
                     color: 'red',
                     textColor: 'white'
                 },
@@ -109,17 +117,25 @@
                 },
 
                 {
-                    title: 'Laura',
+                    title: 'Laura día',
                     start: '2021-03-08',
                     end: '2021-03-08',
                     color: 'green',
                     textColor: 'white'
                 },
-{
+                {
                     title: 'Laura baja',
                     start: '2021-03-09',
                     end: '2021-04-14',
                     color: 'red',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Laura',
+                    start: '2021-04-19',
+                    end: '2021-04-26',
+                    color: 'green',
                     textColor: 'white'
                 },
 
