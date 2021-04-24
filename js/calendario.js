@@ -103,7 +103,7 @@
                 {
                     title: 'Alfonso baja',
                     start: '2021-01-19',
-                    end: '2021-04-30',
+                    end: '2021-05-03',
                     color: 'red',
                     textColor: 'white'
                 },
@@ -111,7 +111,7 @@
                 {
                     title: 'Mayte baja',
                     start: '2021-01-01',
-                    end: '2021-04-12',
+                    end: '2021-05-03',
                     color: 'red',
                     textColor: 'white'
                 },
@@ -134,7 +134,7 @@
                 {
                     title: 'Laura',
                     start: '2021-04-19',
-                    end: '2021-04-26',
+                    end: '2021-05-03',
                     color: 'green',
                     textColor: 'white'
                 },
