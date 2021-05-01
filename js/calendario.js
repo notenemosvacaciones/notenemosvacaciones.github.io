@@ -32,9 +32,17 @@
         eventColor: 'green',
         locale: 'es',
         buttonIcons: true,
-        showNonCurrentDates: false,
+        showNonCurrentDates: true,
 
                  events: [
+
+                {
+                    title: 'Angel baja',
+                    start: '2021-01-25',
+                    end: '2021-02-11',
+                    color: 'red',
+                    textColor: 'white'
+                },
 
                 {
                     title: 'Angel día',
@@ -42,13 +50,29 @@
                     end: '2021-04-15',
                     color: 'red',
                     textColor: 'white'
-                },    
+                }, 
+
+                {
+                    title: 'Angel',
+                    start: '2021-05-31',
+                    end: '2021-06-21',
+                    color: '#cc6600',
+                    textColor: 'white'
+                }, 
+
+                {
+                    title: 'Mercedes',
+                    start: '2021-01-11',
+                    end: '2021-01-18',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
 
                 {
                     title: 'Mercedes horas',
                     start: '2021-03-05',
                     end: '2021-03-05',
-                    color: 'pink',
+                    color: '#ff33ff',
                     textColor: 'black',
                 },
 
@@ -56,8 +80,24 @@
                     title: 'Mercedes horas',
                     start: '2021-04-16',
                     end: '2021-04-16',
-                    color: 'pink',
+                    color: '#ff33ff',
                     textColor: 'black',
+                },
+
+                {
+                    title: 'Mercedes',
+                    start: '2021-06-21',
+                    end: '2021-06-28',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Mercedes días',
+                    start: '2021-06-28',
+                    end: '2021-07-05',
+                    color: '#ff33ff',
+                    textColor: 'black'
                 },
 
                 {
@@ -69,19 +109,11 @@
                 },
 
                 {
-                    title: 'Mercedes',
-                    start: '2021-01-11',
-                    end: '2021-01-18',
-                    color: 'pink',
+                    title: 'Oscar',
+                    start: '2021-05-17',
+                    end: '2021-05-31',
+                    color: '#00ffcc',
                     textColor: 'black'
-                },
-
-                {
-                    title: 'Angel baja',
-                    start: '2021-01-25',
-                    end: '2021-02-11',
-                    color: 'red',
-                    textColor: 'white'
                 },
 
                 {
@@ -103,7 +135,7 @@
                 {
                     title: 'Alfonso baja',
                     start: '2021-01-19',
-                    end: '2021-05-03',
+                    end: '2021-05-11',
                     color: 'red',
                     textColor: 'white'
                 },
@@ -111,7 +143,7 @@
                 {
                     title: 'Mayte baja',
                     start: '2021-01-01',
-                    end: '2021-05-03',
+                    end: '2021-05-10',
                     color: 'red',
                     textColor: 'white'
                 },
