@@ -61,6 +61,14 @@
                 }, 
 
                 {
+                    title: 'David Rejón día',
+                    start: '2021-05-06',
+                    end: '2021-05-06',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Mercedes',
                     start: '2021-01-11',
                     end: '2021-01-18',
@@ -112,6 +120,14 @@
                     title: 'Oscar',
                     start: '2021-05-17',
                     end: '2021-05-31',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Oscar días',
+                    start: '2021-07-05',
+                    end: '2021-07-12',
                     color: '#00ffcc',
                     textColor: 'black'
                 },
