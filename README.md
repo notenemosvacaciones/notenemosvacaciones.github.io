@@ -1,2 +1,3 @@
 # notenemosvacaciones.github.io
-Página de vacaciones
+
+Página de vacaciones de la empresa.
