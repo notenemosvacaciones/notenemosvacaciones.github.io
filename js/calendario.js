@@ -61,9 +61,25 @@
                 }, 
 
                 {
-                    title: 'Angel',
+                    title: 'Angel 2020',
                     start: '2021-05-31',
+                    end: '2021-06-07',
+                    color: '#cc6600',
+                    textColor: 'white'
+                }, 
+
+                {
+                    title: 'Angel Invierno',
+                    start: '2021-06-07',
                     end: '2021-06-21',
+                    color: '#cc6600',
+                    textColor: 'white'
+                }, 
+
+                {
+                    title: 'Angel Verano',
+                    start: '2021-07-12',
+                    end: '2021-07-26',
                     color: '#cc6600',
                     textColor: 'white'
                 }, 
@@ -77,7 +93,7 @@
                 },
 
                 {
-                    title: 'David Rejón',
+                    title: 'David Rejón Verano',
                     start: '2021-09-20',
                     end: '2021-10-04',
                     color: '#996633',
@@ -173,6 +189,22 @@
                 },
 
                 {
+                    title: 'Mercedes horas',
+                    start: '2021-05-21',
+                    end: '2021-05-21',
+                    color: '#ff33ff',
+                    textColor: 'black',
+                },
+
+                {
+                    title: 'Mercedes horas',
+                    start: '2021-05-28',
+                    end: '2021-05-28',
+                    color: '#ff33ff',
+                    textColor: 'black',
+                },
+
+                {
                     title: 'Mercedes Invierno',
                     start: '2021-06-21',
                     end: '2021-06-28',
@@ -200,6 +232,22 @@
                     title: 'Mihaly día',
                     start: '2021-05-06',
                     end: '2021-05-06',
+                    color: '#4D0000',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mihaly medio día',
+                    start: '2021-06-01',
+                    end: '2021-06-01',
+                    color: '#4D0000',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mihaly medio día',
+                    start: '2021-06-17',
+                    end: '2021-06-17',
                     color: '#4D0000',
                     textColor: 'white'
                 },
