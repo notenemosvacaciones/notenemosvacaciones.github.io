@@ -47,16 +47,32 @@
                 {
                     title: 'Angel baja',
                     start: '2021-01-25',
-                    end: '2021-02-11',
+                    end: '2021-02-09',
                     color: 'red',
                     textColor: 'white'
                 },
 
                 {
                     title: 'Angel día',
+                    start: '2021-02-09',
+                    end: '2021-02-09',
+                    color: '#cc6600',
+                    textColor: 'white'
+                }, 
+
+                {
+                    title: 'Angel día',
+                    start: '2021-02-10',
+                    end: '2021-02-10',
+                    color: '#cc6600',
+                    textColor: 'white'
+                }, 
+
+                {
+                    title: 'Angel día',
                     start: '2021-04-15',
-                    end: '2021-04-15',
-                    color: 'red',
+                    end: '2021-04-09',
+                    color: '#cc6600',
                     textColor: 'white'
                 }, 
 
@@ -157,6 +173,14 @@
                 },
 
                 {
+                    title: 'Mayte baja',
+                    start: '2021-05-31',
+                    end: '2021-06-14',
+                    color: 'red',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Mercedes Invierno',
                     start: '2021-01-11',
                     end: '2021-01-18',
@@ -213,7 +237,7 @@
                 },
 
                 {
-                    title: 'Mercedes días',
+                    title: 'Mercedes horas',
                     start: '2021-06-28',
                     end: '2021-07-05',
                     color: '#ff33ff',
