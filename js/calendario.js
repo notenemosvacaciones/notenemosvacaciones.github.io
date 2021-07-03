@@ -101,7 +101,7 @@
                 }, 
 
                 {
-                    title: 'Angel Días',
+                    title: 'Angel Semana 1 de 8',
                     start: '2021-07-12',
                     end: '2021-07-19',
                     color: '#cc6600',
@@ -110,8 +110,64 @@
 
                 {
                     title: 'Angel Verano',
+                    start: '2021-08-02',
+                    end: '2021-08-16',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Angel Semana 2 de 8',
                     start: '2021-09-27',
+                    end: '2021-10-04',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Angel Semana 3 de 8',
+                    start: '2021-10-04',
                     end: '2021-10-11',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Angel Semana 4 de 8',
+                    start: '2021-10-25',
+                    end: '2021-11-01',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Angel Semana 5 de 8',
+                    start: '2021-11-01',
+                    end: '2021-11-08',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Angel Semana 6 de 8',
+                    start: '2021-11-08',
+                    end: '2021-11-15',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Angel Semana 7 de 8',
+                    start: '2021-11-15',
+                    end: '2021-11-22',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Angel Semana 8 de 8',
+                    start: '2021-11-22',
+                    end: '2021-11-29',
                     color: '#cc6600',
                     textColor: 'white'
                 },
