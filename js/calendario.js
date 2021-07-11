@@ -110,8 +110,8 @@
 
                 {
                     title: 'Angel Verano',
-                    start: '2021-08-02',
-                    end: '2021-08-16',
+                    start: '2021-09-13',
+                    end: '2021-09-27',
                     color: '#cc6600',
                     textColor: 'white'
                 },
