@@ -245,6 +245,14 @@
                 },
 
                 {
+                    title: 'Laura día',
+                    start: '2021-07-23',
+                    end: '2021-07-23',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Laura Verano',
                     start: '2021-10-11',
                     end: '2021-10-25',
@@ -344,6 +352,22 @@
                     title: 'Mercedes horas',
                     start: '2021-06-28',
                     end: '2021-07-05',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Mercedes día',
+                    start: '2021-07-30',
+                    end: '2021-07-30',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Mercedes día',
+                    start: '2021-08-02',
+                    end: '2021-08-02',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
