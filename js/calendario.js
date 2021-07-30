@@ -357,7 +357,7 @@
                 },
 
                 {
-                    title: 'Mercedes día',
+                    title: 'Mercedes horas',
                     start: '2021-07-30',
                     end: '2021-07-30',
                     color: '#ff33ff',
@@ -367,6 +367,14 @@
                 {
                     title: 'Mercedes día',
                     start: '2021-08-02',
+                    end: '2021-08-02',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Mercedes día',
+                    start: '2021-08-03',
                     end: '2021-08-02',
                     color: '#ff33ff',
                     textColor: 'black'
