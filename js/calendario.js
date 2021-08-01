@@ -253,6 +253,14 @@
                 },
 
                 {
+                    title: 'Laura día',
+                    start: '2021-08-06',
+                    end: '2021-08-06',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Laura Verano',
                     start: '2021-10-11',
                     end: '2021-10-25',
