@@ -48,7 +48,7 @@
                     title: 'Alfonso Verano',
                     start: '2021-08-16',
                     end: '2021-08-23',
-                    color: 'red',
+                    color: '#3d3d29',
                     textColor: 'white'
                 },
 
@@ -295,7 +295,7 @@
                 {
                     title: 'Mayte baja',
                     start: '2021-05-31',
-                    end: '2021-07-05',
+                    end: '2021-08-30',
                     color: 'red',
                     textColor: 'white'
                 },
@@ -425,6 +425,14 @@
                     start: '2021-06-24',
                     end: '2021-07-05',
                     color: '#4D0000',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mihaly Baja',
+                    start: '2021-08-05',
+                    end: '2021-08-05',
+                    color: 'red',
                     textColor: 'white'
                 },
 
