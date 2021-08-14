@@ -110,7 +110,7 @@
 
                 {
                     title: 'Angel Verano',
-                    start: '2021-09-13',
+                    start: '2021-09-20',
                     end: '2021-09-27',
                     color: '#cc6600',
                     textColor: 'white'
@@ -173,6 +173,14 @@
                 },
 
                 {
+                    title: 'Angel Verano',
+                    start: '2021-11-29',
+                    end: '2021-12-06',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'David Arias Verano',
                     start: '2021-09-13',
                     end: '2021-09-27',
@@ -192,6 +200,14 @@
                     title: 'David Rejón Verano',
                     start: '2021-07-19',
                     end: '2021-08-02',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'David Rejón baja',
+                    start: '2021-08-10',
+                    end: '2021-08-10',
                     color: '#996633',
                     textColor: 'white'
                 },
@@ -256,6 +272,14 @@
                     title: 'Laura día',
                     start: '2021-08-06',
                     end: '2021-08-06',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Laura baja',
+                    start: '2021-08-10',
+                    end: '2021-08-10',
                     color: 'green',
                     textColor: 'white'
                 },
@@ -429,7 +453,7 @@
                 },
 
                 {
-                    title: 'Mihaly Baja',
+                    title: 'Mihaly baja',
                     start: '2021-08-05',
                     end: '2021-08-05',
                     color: 'red',
