@@ -237,6 +237,14 @@
                 },
 
                 {
+                    title: 'Ignacio Verano',
+                    start: '2021-09-20',
+                    end: '2021-10-04',
+                    color: 'blue',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Laura día',
                     start: '2021-03-08',
                     end: '2021-03-08',
@@ -319,7 +327,7 @@
                 {
                     title: 'Mayte baja',
                     start: '2021-05-31',
-                    end: '2021-08-30',
+                    end: '2021-10-01',
                     color: 'red',
                     textColor: 'white'
                 },
