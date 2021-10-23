@@ -213,6 +213,14 @@
                 },
 
                 {
+                    title: 'David Rejón día',
+                    start: '2021-10-19',
+                    end: '2021-10-19',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Fran Invierno',
                     start: '2021-06-28',
                     end: '2021-07-12',
@@ -288,6 +296,14 @@
                     title: 'Laura baja',
                     start: '2021-08-10',
                     end: '2021-08-10',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Laura día',
+                    start: '2021-10-08',
+                    end: '2021-10-08',
                     color: 'green',
                     textColor: 'white'
                 },
@@ -424,6 +440,14 @@
                     title: 'Mercedes Verano',
                     start: '2021-08-23',
                     end: '2021-09-06',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Mercedes horas',
+                    start: '2021-10-29',
+                    end: '2021-10-29',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
