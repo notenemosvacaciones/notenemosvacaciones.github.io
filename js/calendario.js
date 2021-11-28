@@ -165,22 +165,6 @@
                 },
 
                 {
-                    title: 'Angel Semana 8 de 8',
-                    start: '2021-11-22',
-                    end: '2021-11-29',
-                    color: '#cc6600',
-                    textColor: 'white'
-                },
-
-                {
-                    title: 'Angel Verano',
-                    start: '2021-11-29',
-                    end: '2021-12-06',
-                    color: '#cc6600',
-                    textColor: 'white'
-                },
-
-                {
                     title: 'David Arias Verano',
                     start: '2021-09-13',
                     end: '2021-09-27',
@@ -317,6 +301,14 @@
                 },
 
                 {
+                    title: 'Laura baja',
+                    start: '2021-11-22',
+                    end: '2021-12-03',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Lourdes Invierno',
                     start: '2021-02-15',
                     end: '2021-02-29',
@@ -343,7 +335,7 @@
                 {
                     title: 'Mayte baja',
                     start: '2021-05-31',
-                    end: '2021-10-01',
+                    end: '2021-11-29',
                     color: 'red',
                     textColor: 'white'
                 },
@@ -520,6 +512,14 @@
                     title: 'Oscar Verano',
                     start: '2021-09-06',
                     end: '2021-09-20',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Oscar baja',
+                    start: '2021-11-23',
+                    end: '2021-11-29',
                     color: '#00ffcc',
                     textColor: 'black'
                 },
