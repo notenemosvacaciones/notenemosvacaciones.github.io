@@ -303,7 +303,7 @@
                 {
                     title: 'Laura baja',
                     start: '2021-11-22',
-                    end: '2021-12-03',
+                    end: '2021-12-13',
                     color: 'green',
                     textColor: 'white'
                 },
