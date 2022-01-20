@@ -165,6 +165,14 @@
                 },
 
                 {
+                    title: 'Angel vacaciones anteriores',
+                    start: '2022-01-10',
+                    end: '2022-01-31',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'David Arias Verano',
                     start: '2021-09-13',
                     end: '2021-09-27',
@@ -309,6 +317,14 @@
                 },
 
                 {
+                    title: 'Laura Invierno',
+                    start: '2022-01-31',
+                    end: '2022-02-07',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Lourdes Invierno',
                     start: '2021-02-15',
                     end: '2021-02-29',
@@ -336,6 +352,22 @@
                     title: 'Mayte baja',
                     start: '2021-05-31',
                     end: '2021-11-29',
+                    color: 'red',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mayte días',
+                    start: '2022-01-07',
+                    end: '2021-11-29',
+                    color: 'red',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mayte baja',
+                    start: '2022-01-14',
+                    end: '2022-01-14',
                     color: 'red',
                     textColor: 'white'
                 },
@@ -520,6 +552,14 @@
                     title: 'Oscar baja',
                     start: '2021-11-23',
                     end: '2021-11-29',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Oscar días',
+                    start: '2022-01-07',
+                    end: '2022-01-07',
                     color: '#00ffcc',
                     textColor: 'black'
                 },
