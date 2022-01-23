@@ -477,6 +477,14 @@
                 },
 
                 {
+                    title: 'Mercedes baja',
+                    start: '2021-12-28',
+                    end: '2022-01-11',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Mihaly día',
                     start: '2021-05-06',
                     end: '2021-05-06',
