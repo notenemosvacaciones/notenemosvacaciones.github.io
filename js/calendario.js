@@ -171,6 +171,13 @@
                     color: '#cc6600',
                     textColor: 'white'
                 },
+                {
+                    title: 'Angel día',
+                    start: '2022-02-04',
+                    end: '2022-02-04',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
 
                 {
                     title: 'David Arias Verano',
@@ -210,6 +217,22 @@
                     end: '2021-10-19',
                     color: '#996633',
                     textColor: 'white'
+                },
+
+                {
+                    title: 'David Rejón Invierno',
+                    start: '2022-02-14',
+                    end: '2022-02-28',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Esther Invierno',
+                    start: '2022-02-14',
+                    end: '2022-02-28',
+                    color: '#f59d05',
+                    textColor: 'black'
                 },
 
                 {
@@ -325,6 +348,14 @@
                 },
 
                 {
+                    title: 'Laura Invierno',
+                    start: '2022-02-28',
+                    end: '2022-03-07',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Lourdes Invierno',
                     start: '2021-02-15',
                     end: '2021-02-29',
@@ -368,6 +399,14 @@
                     title: 'Mayte baja',
                     start: '2022-01-14',
                     end: '2022-01-14',
+                    color: 'red',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mayte',
+                    start: '2022-02-07',
+                    end: '2022-02-14',
                     color: 'red',
                     textColor: 'white'
                 },
@@ -573,6 +612,14 @@
                 },
 
                 {
+                    title: 'Oscar Invierno',
+                    start: '2022-03-28',
+                    end: '2022-04-11',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Rocío Días',
                     start: '2021-01-19',
                     end: '2021-01-25',
@@ -593,6 +640,22 @@
                     start: '2021-08-09',
                     end: '2021-08-23',
                     color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío Invierno',
+                    start: '2022-05-02',
+                    end: '2022-05-16',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Urruti',
+                    start: '2022-04-11',
+                    end: '2022-05-02',
+                    color: '#01360f',
                     textColor: 'white'
                 }
 
