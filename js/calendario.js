@@ -412,6 +412,14 @@
                 },
 
                 {
+                    title: 'Mayte',
+                    start: '2022-03-07',
+                    end: '2022-03-14',
+                    color: 'red',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Mercedes Invierno',
                     start: '2021-01-11',
                     end: '2021-01-18',
