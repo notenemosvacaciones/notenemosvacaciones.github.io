@@ -180,6 +180,14 @@
                 },
 
                 {
+                    title: 'Angel Invierno',
+                    start: '2022-03-14',
+                    end: '2022-03-28',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'David Arias Verano',
                     start: '2021-09-13',
                     end: '2021-09-27',
@@ -356,6 +364,14 @@
                 },
 
                 {
+                    title: 'Laura baja',
+                    start: '2022-03-09',
+                    end: '2022-03-09',
+                    color: 'red',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Lourdes Invierno',
                     start: '2021-02-15',
                     end: '2021-02-29',
@@ -407,7 +423,7 @@
                     title: 'Mayte',
                     start: '2022-02-07',
                     end: '2022-02-14',
-                    color: 'red',
+                    color: '#fc7168',
                     textColor: 'white'
                 },
 
@@ -415,7 +431,7 @@
                     title: 'Mayte',
                     start: '2022-03-07',
                     end: '2022-03-14',
-                    color: 'red',
+                    color: '#fc7168',
                     textColor: 'white'
                 },
 
