@@ -436,11 +436,19 @@
                 },
 
                 {
-                    title: 'Mercedes Invierno',
-                    start: '2021-01-11',
-                    end: '2021-01-18',
-                    color: '#ff33ff',
-                    textColor: 'black'
+                    title: 'Mayte',
+                    start: '2022-03-07',
+                    end: '2022-03-14',
+                    color: '#fc7168',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mayte día',
+                    start: '2022-04-27',
+                    end: '2022-04-27',
+                    color: '#fc7168',
+                    textColor: 'white'
                 },
 
                 {
@@ -548,6 +556,30 @@
                 },
 
                 {
+                    title: 'Mercedes día',
+                    start: '2022-04-13',
+                    end: '2022-04-13',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Mercedes defunción',
+                    start: '2022-04-18',
+                    end: '2022-04-21',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Mercedes horas',
+                    start: '2022-04-22',
+                    end: '2022-04-22',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Mihaly día',
                     start: '2021-05-06',
                     end: '2021-05-06',
@@ -639,6 +671,14 @@
                     title: 'Oscar Invierno',
                     start: '2022-03-28',
                     end: '2022-04-11',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Oscar días',
+                    start: '2022-05-30',
+                    end: '2022-06-06',
                     color: '#00ffcc',
                     textColor: 'black'
                 },
