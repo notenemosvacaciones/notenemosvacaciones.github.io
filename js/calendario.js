@@ -53,6 +53,14 @@
                 },
 
                 {
+                    title: 'Alfonso Verano',
+                    start: '2022-08-01',
+                    end: '2022-08-08',
+                    color: '#3d3d29',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Angel baja',
                     start: '2021-01-25',
                     end: '2021-02-09',
@@ -171,6 +179,7 @@
                     color: '#cc6600',
                     textColor: 'white'
                 },
+
                 {
                     title: 'Angel día',
                     start: '2022-02-04',
@@ -183,6 +192,14 @@
                     title: 'Angel Invierno',
                     start: '2022-03-14',
                     end: '2022-03-28',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Angel día',
+                    start: '2022-05-06',
+                    end: '2022-02-04',
                     color: '#cc6600',
                     textColor: 'white'
                 },
@@ -236,6 +253,14 @@
                 },
 
                 {
+                    title: 'David Rejón Verano',
+                    start: '2022-08-15',
+                    end: '2022-08-29',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Esther Invierno',
                     start: '2022-02-14',
                     end: '2022-02-28',
@@ -260,6 +285,14 @@
                 },
 
                 {
+                    title: 'Fran Verano',
+                    start: '2022-08-22',
+                    end: '2022-09-05',
+                    color: '#bbff99',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Ignacio Invierno',
                     start: '2021-02-22',
                     end: '2021-03-08',
@@ -271,6 +304,22 @@
                     title: 'Ignacio Verano',
                     start: '2021-09-20',
                     end: '2021-10-04',
+                    color: 'blue',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Ignacio Verano',
+                    start: '2022-06-06',
+                    end: '2022-06-20',
+                    color: 'blue',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Ignacio Invierno',
+                    start: '2022-09-19',
+                    end: '2022-10-03',
                     color: 'blue',
                     textColor: 'white'
                 },
@@ -372,6 +421,30 @@
                 },
 
                 {
+                    title: 'Laura Verano',
+                    start: '2022-06-20',
+                    end: '2022-06-27',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Laura Verano',
+                    start: '2022-10-10',
+                    end: '2022-10-17',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Laura día',
+                    start: '2022-09-02',
+                    end: '2022-09-02',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Lourdes Invierno',
                     start: '2021-02-15',
                     end: '2021-02-29',
@@ -383,6 +456,30 @@
                     title: 'Lourdes Verano',
                     start: '2021-08-02',
                     end: '2021-08-16',
+                    color: '#b565ac',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Lourdes Invierno',
+                    start: '2022-01-10',
+                    end: '2022-01-24',
+                    color: '#b565ac',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Lourdes Verano',
+                    start: '2022-08-08',
+                    end: '2022-08-15',
+                    color: '#b565ac',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Lourdes Verano',
+                    start: '2022-09-05',
+                    end: '2022-09-12',
                     color: '#b565ac',
                     textColor: 'white'
                 },
@@ -447,6 +544,14 @@
                     title: 'Mayte día',
                     start: '2022-04-27',
                     end: '2022-04-27',
+                    color: '#fc7168',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mayte 2021',
+                    start: '2022-05-16',
+                    end: '2022-05-30',
                     color: '#fc7168',
                     textColor: 'white'
                 },
@@ -580,6 +685,22 @@
                 },
 
                 {
+                    title: 'Mercedes días',
+                    start: '2022-06-27',
+                    end: '2022-07-04',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Mercedes todas',
+                    start: '2022-07-04',
+                    end: '2022-08-01',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Mihaly día',
                     start: '2021-05-06',
                     end: '2021-05-06',
@@ -684,6 +805,14 @@
                 },
 
                 {
+                    title: 'Oscar Verano',
+                    start: '2022-09-05',
+                    end: '2022-09-19',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Rocío Días',
                     start: '2021-01-19',
                     end: '2021-01-25',
@@ -711,6 +840,14 @@
                     title: 'Rocío Invierno',
                     start: '2022-05-02',
                     end: '2022-05-16',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío Verano',
+                    start: '2022-08-01',
+                    end: '2022-08-15',
                     color: '#8f3241',
                     textColor: 'white'
                 },
