@@ -685,6 +685,14 @@
                 },
 
                 {
+                    title: 'Mercedes día',
+                    start: '2022-05-10',
+                    end: '2022-05-10',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Mercedes días',
                     start: '2022-06-27',
                     end: '2022-07-04',
