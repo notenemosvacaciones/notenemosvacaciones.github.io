@@ -557,6 +557,14 @@
                 },
 
                 {
+                    title: 'Mayte 2021',
+                    start: '2022-08-22',
+                    end: '2022-08-29',
+                    color: '#fc7168',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Mercedes horas',
                     start: '2021-03-05',
                     end: '2021-03-05',
