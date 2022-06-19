@@ -861,6 +861,30 @@
                 },
 
                 {
+                    title: 'Rocío Días',
+                    start: '2022-06-02',
+                    end: '2022-05-16',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío Días',
+                    start: '2022-06-03',
+                    end: '2022-05-16',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío Días',
+                    start: '2022-06-17',
+                    end: '2022-05-16',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Rocío Verano',
                     start: '2022-08-01',
                     end: '2022-08-15',
