@@ -205,6 +205,14 @@
                 },
 
                 {
+                    title: 'Angel Verano',
+                    start: '2022-09-19',
+                    end: '2022-10-03',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'David Arias Verano',
                     start: '2021-09-13',
                     end: '2021-09-27',
