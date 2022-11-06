@@ -437,17 +437,25 @@
                 },
 
                 {
+                    title: 'Laura día',
+                    start: '2022-09-02',
+                    end: '2022-09-02',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Laura Verano',
-                    start: '2022-10-10',
-                    end: '2022-10-17',
+                    start: '2022-11-07',
+                    end: '2022-11-14',
                     color: 'green',
                     textColor: 'white'
                 },
 
                 {
                     title: 'Laura día',
-                    start: '2022-09-02',
-                    end: '2022-09-02',
+                    start: '2022-11-18',
+                    end: '2022-11-18',
                     color: 'green',
                     textColor: 'white'
                 },
@@ -725,6 +733,14 @@
                 },
 
                 {
+                    title: 'Mercedes baja',
+                    start: '2022-10-03',
+                    end: '2022-11-08',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Mihaly día',
                     start: '2021-05-06',
                     end: '2021-05-06',
@@ -897,6 +913,22 @@
                     start: '2022-08-01',
                     end: '2022-08-15',
                     color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Daniel Incorporación',
+                    start: '2022-10-18',
+                    end: '2022-10-18',
+                    color: '#9c9a03',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Mónica Incorporación',
+                    start: '2022-11-07',
+                    end: '2022-11-07',
+                    color: '#460455 ',
                     textColor: 'white'
                 },
 
