@@ -735,7 +735,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2022-11-08',
+                    end: '2022-12-06',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
