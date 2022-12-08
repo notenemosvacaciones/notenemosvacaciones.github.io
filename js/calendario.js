@@ -735,7 +735,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2022-12-06',
+                    end: '2023-01-03',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
@@ -853,6 +853,14 @@
                 },
 
                 {
+                    title: 'Oscar médico',
+                    start: '2022-11-28',
+                    end: '2022-11-30',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Rocío Días',
                     start: '2021-01-19',
                     end: '2021-01-25',
@@ -912,6 +920,38 @@
                     title: 'Rocío Verano',
                     start: '2022-08-01',
                     end: '2022-08-15',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío niño',
+                    start: '2022-12-01',
+                    end: '2022-12-03',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío niño',
+                    start: '2022-12-05',
+                    end: '2022-12-05',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío niño',
+                    start: '2022-12-07',
+                    end: '2022-12-07',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío niño',
+                    start: '2022-12-09',
+                    end: '2022-12-09',
                     color: '#8f3241',
                     textColor: 'white'
                 },
