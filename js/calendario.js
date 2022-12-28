@@ -269,6 +269,14 @@
                 },
 
                 {
+                    title: 'David Rejón Días',
+                    start: '2023-01-09',
+                    end: '2023-01-16',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Esther Invierno',
                     start: '2022-02-14',
                     end: '2022-02-28',
