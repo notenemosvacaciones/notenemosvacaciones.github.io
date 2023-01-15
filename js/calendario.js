@@ -213,6 +213,14 @@
                 },
 
                 {
+                    title: 'Angel Verano',
+                    start: '2023-01-16',
+                    end: '2023-01-30',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'David Arias Verano',
                     start: '2021-09-13',
                     end: '2021-09-27',
@@ -743,7 +751,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2023-01-03',
+                    end: '2023-01-31',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
