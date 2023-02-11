@@ -477,6 +477,14 @@
                 },
 
                 {
+                    title: 'Laura día',
+                    start: '2023-02-10',
+                    end: '2022-11-18',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Lourdes Invierno',
                     start: '2021-02-15',
                     end: '2021-02-29',
