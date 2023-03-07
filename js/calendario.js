@@ -213,7 +213,7 @@
                 },
 
                 {
-                    title: 'Angel Verano',
+                    title: 'Angel Invierno',
                     start: '2023-01-16',
                     end: '2023-01-30',
                     color: '#cc6600',
@@ -225,6 +225,14 @@
                     start: '2021-09-13',
                     end: '2021-09-27',
                     color: '#ffc2b3',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Daniel Rejón Invierno',
+                    start: '2023-03-06',
+                    end: '2023-03-20',
+                    color: '#dff5a9',
                     textColor: 'black'
                 },
 
@@ -280,6 +288,14 @@
                     title: 'David Rejón Días',
                     start: '2023-01-09',
                     end: '2023-01-16',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'David Rejón Invierno',
+                    start: '2023-03-06',
+                    end: '2023-03-20',
                     color: '#996633',
                     textColor: 'white'
                 },
@@ -344,6 +360,14 @@
                     title: 'Ignacio Invierno',
                     start: '2022-09-19',
                     end: '2022-10-03',
+                    color: 'blue',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Ignacio baja',
+                    start: '2023-01-25',
+                    end: '2023-03-06',
                     color: 'blue',
                     textColor: 'white'
                 },
@@ -759,7 +783,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2023-01-31',
+                    end: '2023-03-31',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
