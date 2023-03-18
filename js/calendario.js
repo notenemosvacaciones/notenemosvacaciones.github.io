@@ -509,6 +509,14 @@
                 },
 
                 {
+                    title: 'Laura Invierno',
+                    start: '2023-03-20',
+                    end: '2023-04-03',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Lourdes Invierno',
                     start: '2021-02-15',
                     end: '2021-02-29',
