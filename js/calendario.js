@@ -517,6 +517,22 @@
                 },
 
                 {
+                    title: 'Laura baja',
+                    start: '2023-04-05',
+                    end: '2023-04-05',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Laura baja',
+                    start: '2023-04-10',
+                    end: '2023-04-17',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Lourdes Invierno',
                     start: '2021-02-15',
                     end: '2021-02-29',
@@ -791,7 +807,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2023-03-31',
+                    end: '2023-05-01',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
@@ -912,6 +928,14 @@
                     title: 'Oscar médico',
                     start: '2022-11-28',
                     end: '2022-11-30',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Oscar Invierno',
+                    start: '2023-04-10',
+                    end: '2023-04-24',
                     color: '#00ffcc',
                     textColor: 'black'
                 },
