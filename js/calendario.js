@@ -373,6 +373,22 @@
                 },
 
                 {
+                    title: 'Ignacio operación',
+                    start: '2023-04-26',
+                    end: '2023-04-28',
+                    color: 'blue',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Ignacio Invierno',
+                    start: '2023-05-01',
+                    end: '2023-05-15',
+                    color: 'blue',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Laura día',
                     start: '2021-03-08',
                     end: '2021-03-08',
@@ -527,7 +543,7 @@
                 {
                     title: 'Laura baja',
                     start: '2023-04-10',
-                    end: '2023-04-17',
+                    end: '2023-05-04',
                     color: 'green',
                     textColor: 'white'
                 },
