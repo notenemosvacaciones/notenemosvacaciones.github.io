@@ -861,6 +861,14 @@
                 },
 
                 {
+                    title: 'Monica',
+                    start: '2023-05-29',
+                    end: '2023-06-12',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Mihaly baja',
                     start: '2021-08-05',
                     end: '2021-08-05',
