@@ -973,6 +973,14 @@
                 },
 
                 {
+                    title: 'Oscar días',
+                    start: '2023-06-26',
+                    end: '2023-07-03',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Rocío Días',
                     start: '2021-01-19',
                     end: '2021-01-25',
@@ -1064,6 +1072,14 @@
                     title: 'Rocío niño',
                     start: '2022-12-09',
                     end: '2022-12-09',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío Invierno',
+                    start: '2023-07-03',
+                    end: '2023-07-17',
                     color: '#8f3241',
                     textColor: 'white'
                 },
