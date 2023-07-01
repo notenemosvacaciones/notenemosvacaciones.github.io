@@ -245,6 +245,14 @@
                 },
 
                 {
+                    title: 'Daniel Rejón día',
+                    start: '2023-07-06',
+                    end: '2023-07-06',
+                    color: '#dff5a9',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'David Rejón día',
                     start: '2021-05-06',
                     end: '2021-05-06',
@@ -304,6 +312,14 @@
                     title: 'David Rejón Invierno',
                     start: '2023-03-06',
                     end: '2023-03-20',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'David Rejón día',
+                    start: '2023-07-06',
+                    end: '2023-07-06',
                     color: '#996633',
                     textColor: 'white'
                 },
@@ -552,6 +568,14 @@
                     title: 'Laura baja',
                     start: '2023-04-10',
                     end: '2023-05-04',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Laura día',
+                    start: '2023-06-23',
+                    end: '2022-06-23',
                     color: 'green',
                     textColor: 'white'
                 },
@@ -831,7 +855,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2023-05-01',
+                    end: '2023-07-31',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
@@ -872,6 +896,14 @@
                     title: 'Monica',
                     start: '2023-05-29',
                     end: '2023-06-12',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Monica baja',
+                    start: '2023-06-26',
+                    end: '2023-07-05',
                     color: '#696868',
                     textColor: 'white'
                 },
