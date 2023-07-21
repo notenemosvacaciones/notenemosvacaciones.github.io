@@ -413,6 +413,14 @@
                 },
 
                 {
+                    title: 'Ignacio Verano',
+                    start: '2023-07-17',
+                    end: '2023-07-31',
+                    color: 'blue',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Laura día',
                     start: '2021-03-08',
                     end: '2021-03-08',
@@ -855,7 +863,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2023-07-31',
+                    end: '2023-08-31',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
@@ -1008,6 +1016,14 @@
                     title: 'Oscar días',
                     start: '2023-06-26',
                     end: '2023-07-03',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Oscar día',
+                    start: '2023-07-24',
+                    end: '2023-07-24',
                     color: '#00ffcc',
                     textColor: 'black'
                 },
