@@ -229,6 +229,14 @@
                 },
 
                 {
+                    title: 'Angel día',
+                    start: '2023-07-21',
+                    end: '2023-07-21',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'David Arias Verano',
                     start: '2021-09-13',
                     end: '2021-09-27',
@@ -248,6 +256,14 @@
                     title: 'Daniel Rejón día',
                     start: '2023-07-06',
                     end: '2023-07-06',
+                    color: '#dff5a9',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Daniel Rejón Verano',
+                    start: '2023-08-21',
+                    end: '2023-09-04',
                     color: '#dff5a9',
                     textColor: 'black'
                 },
@@ -320,6 +336,14 @@
                     title: 'David Rejón día',
                     start: '2023-07-06',
                     end: '2023-07-06',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'David Rejón Verano',
+                    start: '2023-08-21',
+                    end: '2023-09-04',
                     color: '#996633',
                     textColor: 'white'
                 },
@@ -583,7 +607,15 @@
                 {
                     title: 'Laura día',
                     start: '2023-06-23',
-                    end: '2022-06-23',
+                    end: '2023-06-23',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Laura día',
+                    start: '2023-07-14',
+                    end: '2023-07-14',
                     color: 'green',
                     textColor: 'white'
                 },
@@ -624,6 +656,14 @@
                     title: 'Lourdes Verano',
                     start: '2022-09-05',
                     end: '2022-09-12',
+                    color: '#b565ac',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Lourdes Verano',
+                    start: '2023-08-21',
+                    end: '2023-09-04',
                     color: '#b565ac',
                     textColor: 'white'
                 },
@@ -1029,6 +1069,14 @@
                 },
 
                 {
+                    title: 'Oscar Verano',
+                    start: '2023-09-04',
+                    end: '2023-09-18',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Rocío Días',
                     start: '2021-01-19',
                     end: '2021-01-25',
@@ -1128,6 +1176,22 @@
                     title: 'Rocío Invierno',
                     start: '2023-07-03',
                     end: '2023-07-17',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío días',
+                    start: '2023-07-31',
+                    end: '2023-08-07',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío Verano',
+                    start: '2023-08-07',
+                    end: '2023-08-21',
                     color: '#8f3241',
                     textColor: 'white'
                 },
