@@ -621,6 +621,14 @@
                 },
 
                 {
+                    title: 'Laura baja',
+                    start: '2023-08-30',
+                    end: '2023-09-06',
+                    color: 'green',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Lourdes Invierno',
                     start: '2021-02-15',
                     end: '2021-02-29',
@@ -903,7 +911,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2023-08-31',
+                    end: '2023-09-31',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
