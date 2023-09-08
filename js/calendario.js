@@ -237,6 +237,14 @@
                 },
 
                 {
+                    title: 'Bea incorporación',
+                    start: '2023-09-11',
+                    end: '2023-09-11',
+                    color: '#e81607',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'David Arias Verano',
                     start: '2021-09-13',
                     end: '2021-09-27',
@@ -623,7 +631,7 @@
                 {
                     title: 'Laura baja',
                     start: '2023-08-30',
-                    end: '2023-09-06',
+                    end: '2023-10-04',
                     color: 'green',
                     textColor: 'white'
                 },
