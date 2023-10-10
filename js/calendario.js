@@ -277,6 +277,14 @@
                 },
 
                 {
+                    title: 'Daniel Rejón día',
+                    start: '2023-09-27',
+                    end: '2023-09-27',
+                    color: '#dff5a9',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'David Rejón día',
                     start: '2021-05-06',
                     end: '2021-05-06',
