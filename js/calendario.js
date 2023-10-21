@@ -365,6 +365,14 @@
                 },
 
                 {
+                    title: 'David Rejón baja',
+                    start: '2023-10-09',
+                    end: '2023-10-30',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Esther Invierno',
                     start: '2022-02-14',
                     end: '2022-02-28',
@@ -639,7 +647,7 @@
                 {
                     title: 'Laura baja',
                     start: '2023-08-30',
-                    end: '2023-10-04',
+                    end: '2023-11-01',
                     color: 'green',
                     textColor: 'white'
                 },
