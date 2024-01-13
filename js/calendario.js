@@ -237,6 +237,22 @@
                 },
 
                 {
+                    title: 'Angel Invierno',
+                    start: '2024-01-15',
+                    end: '2024-01-29',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Angel días',
+                    start: '2024-01-29',
+                    end: '2024-02-05',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Bea incorporación',
                     start: '2023-09-11',
                     end: '2023-09-11',
@@ -647,7 +663,7 @@
                 {
                     title: 'Laura baja',
                     start: '2023-08-30',
-                    end: '2023-11-01',
+                    end: '2024-01-31',
                     color: 'green',
                     textColor: 'white'
                 },
@@ -935,7 +951,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2023-09-31',
+                    end: '2024-01-31',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
@@ -973,7 +989,23 @@
                 },
 
                 {
-                    title: 'Monica',
+                    title: 'Monica día',
+                    start: '2023-04-06',
+                    end: '2023-04-05',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Monica día',
+                    start: '2023-05-26',
+                    end: '2023-05-26',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Monica Invierno',
                     start: '2023-05-29',
                     end: '2023-06-12',
                     color: '#696868',
@@ -984,6 +1016,22 @@
                     title: 'Monica baja',
                     start: '2023-06-26',
                     end: '2023-07-05',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Monica día',
+                    start: '2023-12-07',
+                    end: '2023-12-07',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Monica Invierno',
+                    start: '2024-01-15',
+                    end: '2024-01-29',
                     color: '#696868',
                     textColor: 'white'
                 },
