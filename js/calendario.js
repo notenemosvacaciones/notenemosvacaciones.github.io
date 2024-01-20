@@ -717,6 +717,14 @@
                 },
 
                 {
+                    title: 'Luis Incorporación',
+                    start: '2024-01-18',
+                    end: '2024-01-18',
+                    color: '#b01a9f',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Mayte baja',
                     start: '2021-01-01',
                     end: '2021-05-10',
