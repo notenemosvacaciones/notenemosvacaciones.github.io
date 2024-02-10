@@ -1045,6 +1045,14 @@
                 },
 
                 {
+                    title: 'Monica días',
+                    start: '2024-02-01',
+                    end: '2024-02-03',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Mihaly baja',
                     start: '2021-08-05',
                     end: '2021-08-05',
