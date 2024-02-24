@@ -389,6 +389,14 @@
                 },
 
                 {
+                    title: 'David Rejón baja',
+                    start: '2024-02-12',
+                    end: '2024-03-10',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Esther Invierno',
                     start: '2022-02-14',
                     end: '2022-02-28',
