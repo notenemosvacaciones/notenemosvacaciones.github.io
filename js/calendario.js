@@ -301,6 +301,14 @@
                 },
 
                 {
+                    title: 'Daniel Rejón baja',
+                    start: '2024-02-12',
+                    end: '2024-04-10',
+                    color: '#dff5a9',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'David Rejón día',
                     start: '2021-05-06',
                     end: '2021-05-06',
@@ -389,9 +397,9 @@
                 },
 
                 {
-                    title: 'David Rejón baja',
-                    start: '2024-02-12',
-                    end: '2024-03-10',
+                    title: 'David Verano',
+                    start: '2024-03-04',
+                    end: '2024-03-18',
                     color: '#996633',
                     textColor: 'white'
                 },
