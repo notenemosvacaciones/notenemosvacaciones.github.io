@@ -253,6 +253,14 @@
                 },
 
                 {
+                    title: 'Angel días',
+                    start: '2024-03-18',
+                    end: '2024-03-25',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Bea incorporación',
                     start: '2023-09-11',
                     end: '2023-09-11',
@@ -397,7 +405,7 @@
                 },
 
                 {
-                    title: 'David Verano',
+                    title: 'David Rejón Invierno',
                     start: '2024-03-04',
                     end: '2024-03-18',
                     color: '#996633',
@@ -1069,11 +1077,27 @@
                 },
 
                 {
+                    title: 'Monica Invierno',
+                    start: '2024-03-25',
+                    end: '2024-04-08',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Mihaly baja',
                     start: '2021-08-05',
                     end: '2021-08-05',
                     color: 'red',
                     textColor: 'white'
+                },
+
+                {
+                    title: 'Incorporación Noe',
+                    start: '2024-03-01',
+                    end: '2024-03-01',
+                    color: '#bbff99',
+                    textColor: 'black'
                 },
 
                 {
