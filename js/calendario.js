@@ -749,6 +749,14 @@
                 },
 
                 {
+                    title: 'Luis Invierno',
+                    start: '2024-04-22',
+                    end: '2024-05-06',
+                    color: '#b01a9f',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Mayte baja',
                     start: '2021-01-01',
                     end: '2021-05-10',
@@ -1208,6 +1216,14 @@
                     title: 'Oscar Verano',
                     start: '2023-09-04',
                     end: '2023-09-18',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Oscar Invierno',
+                    start: '2024-04-08',
+                    end: '2024-04-22',
                     color: '#00ffcc',
                     textColor: 'black'
                 },
