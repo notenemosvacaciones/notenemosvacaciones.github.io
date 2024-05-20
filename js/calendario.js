@@ -261,6 +261,14 @@
                 },
 
                 {
+                    title: 'Angel Verano',
+                    start: '2024-06-10',
+                    end: '2024-06-24',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Bea incorporación',
                     start: '2023-09-11',
                     end: '2023-09-11',
@@ -1101,9 +1109,17 @@
                 },
 
                 {
-                    title: 'Incorporación Noe',
-                    start: '2024-03-01',
-                    end: '2024-03-01',
+                    title: 'Noe Invierno',
+                    start: '2024-05-20',
+                    end: '2024-05-27',
+                    color: '#bbff99',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Noe Invierno',
+                    start: '2024-06-03',
+                    end: '2024-06-10',
                     color: '#bbff99',
                     textColor: 'black'
                 },
