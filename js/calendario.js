@@ -508,10 +508,20 @@
                     textColor: 'white'
                 },
 
+                
+
                 {
                     title: 'Ignacio Verano',
-                    start: '2023-07-17',
-                    end: '2023-07-31',
+                    start: '2024-07-01',
+                    end: '2024-07-15',
+                    color: 'blue',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Ignacio Invierno',
+                    start: '2024-05-06',
+                    end: '2024-05-20',
                     color: 'blue',
                     textColor: 'white'
                 },
@@ -999,7 +1009,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2024-01-31',
+                    end: '2024-06-25',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
@@ -1076,18 +1086,20 @@
                     textColor: 'white'
                 },
 
-                {
-                    title: 'Monica Invierno',
-                    start: '2024-01-15',
-                    end: '2024-01-29',
-                    color: '#696868',
-                    textColor: 'white'
-                },
+              
 
                 {
                     title: 'Monica días',
                     start: '2024-02-01',
                     end: '2024-02-03',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Monica Baja',
+                    start: '2024-05-25',
+                    end: '2024-06-25',
                     color: '#696868',
                     textColor: 'white'
                 },
@@ -1112,14 +1124,6 @@
                     title: 'Noe Invierno',
                     start: '2024-05-20',
                     end: '2024-05-27',
-                    color: '#bbff99',
-                    textColor: 'black'
-                },
-
-                {
-                    title: 'Noe Invierno',
-                    start: '2024-06-03',
-                    end: '2024-06-10',
                     color: '#bbff99',
                     textColor: 'black'
                 },
@@ -1371,6 +1375,23 @@
                     color: '#9c9a03',
                     textColor: 'white'
                 },
+
+                {
+                    title: 'Rocío días',
+                    start: '2024-06-24',
+                    end: '2024-07-01',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío Invierno',
+                    start: '2024-07-15',
+                    end: '2024-07-29',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
 
                 {
                     title: 'Mónica Incorporación',
