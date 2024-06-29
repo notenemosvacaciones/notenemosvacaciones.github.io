@@ -1009,7 +1009,7 @@
                 {
                     title: 'Mercedes baja',
                     start: '2022-10-03',
-                    end: '2024-06-25',
+                    end: '2024-06-28',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
@@ -1099,7 +1099,7 @@
                 {
                     title: 'Monica Baja',
                     start: '2024-05-25',
-                    end: '2024-06-25',
+                    end: '2024-06-27',
                     color: '#696868',
                     textColor: 'white'
                 },
