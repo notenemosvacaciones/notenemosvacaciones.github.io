@@ -1015,6 +1015,14 @@
                 },
 
                 {
+                    title: 'Mercedes Verano',
+                    start: '2024-07-24',
+                    end: '2024-08-12',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
+
+                {
                     title: 'Mihaly día',
                     start: '2021-05-06',
                     end: '2021-05-06',
@@ -1124,6 +1132,14 @@
                     title: 'Noe Invierno',
                     start: '2024-05-20',
                     end: '2024-05-27',
+                    color: '#bbff99',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Noe Verano',
+                    start: '2024-07-29',
+                    end: '2024-08-12',
                     color: '#bbff99',
                     textColor: 'black'
                 },
