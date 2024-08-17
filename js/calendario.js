@@ -421,6 +421,14 @@
                 },
 
                 {
+                    title: 'David Rejón Días',
+                    start: '2024-08-26',
+                    end: '2024-09-02',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+
+                {
                     title: 'Esther Invierno',
                     start: '2022-02-14',
                     end: '2022-02-28',
@@ -1404,6 +1412,14 @@
                     title: 'Rocío Invierno',
                     start: '2024-07-15',
                     end: '2024-07-29',
+                    color: '#8f3241',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Rocío Verano',
+                    start: '2024-08-12',
+                    end: '2024-08-26',
                     color: '#8f3241',
                     textColor: 'white'
                 },
