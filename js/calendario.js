@@ -429,6 +429,14 @@
                 },
 
                 {
+                    title: 'David Rejón Verano',
+                    start: '2024-09-16',
+                    end: '2024-09-30',
+                    color: '#996633',
+                    textColor: 'white'
+                },  
+
+                {
                     title: 'Esther Invierno',
                     start: '2022-02-14',
                     end: '2022-02-28',
@@ -1102,8 +1110,6 @@
                     textColor: 'white'
                 },
 
-              
-
                 {
                     title: 'Monica días',
                     start: '2024-02-01',
@@ -1124,6 +1130,14 @@
                     title: 'Monica Invierno',
                     start: '2024-03-25',
                     end: '2024-04-08',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+
+                {
+                    title: 'Monica Verano',
+                    start: '2024-09-02',
+                    end: '2024-09-16',
                     color: '#696868',
                     textColor: 'white'
                 },
@@ -1268,6 +1282,14 @@
                     title: 'Oscar Invierno',
                     start: '2024-04-08',
                     end: '2024-04-22',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+
+                {
+                    title: 'Oscar Verano',
+                    start: '2024-09-02',
+                    end: '2024-09-16',
                     color: '#00ffcc',
                     textColor: 'black'
                 },
