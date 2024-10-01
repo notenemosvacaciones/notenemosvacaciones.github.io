@@ -789,6 +789,22 @@
                     color: '#b01a9f',
                     textColor: 'white'
                 },
+                
+                {
+                    title: 'Luis Día',
+                    start: '2024-07-05',
+                    end: '2024-07-05',
+                    color: '#b01a9f',
+                    textColor: 'white'
+                },
+                
+                 {
+                    title: 'Luis Verano',
+                    start: '2024-10-14',
+                    end: '2024-10-28',
+                    color: '#b01a9f',
+                    textColor: 'white'
+                },
 
                 {
                     title: 'Mayte baja',
@@ -1037,6 +1053,14 @@
                     color: '#ff33ff',
                     textColor: 'black'
                 },
+                
+                  {
+                    title: 'Mercedes Invierno',
+                    start: '2024-11-25',
+                    end: '2024-12-09',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
 
                 {
                     title: 'Mihaly día',
@@ -1165,6 +1189,14 @@
                     color: '#bbff99',
                     textColor: 'black'
                 },
+                
+                {
+                    title: 'Noe Día',
+                    start: '2024-10-01',
+                    end: '2024-10-01',
+                    color: '#bbff99',
+                    textColor: 'black'
+                },
 
                 {
                     title: 'Oscar día',
@@ -1290,6 +1322,14 @@
                     title: 'Oscar Verano',
                     start: '2024-09-02',
                     end: '2024-09-16',
+                    color: '#00ffcc',
+                    textColor: 'black'
+                },
+                
+                {
+                    title: 'Oscar Días',
+                    start: '2024-10-02',
+                    end: '2024-10-05',
                     color: '#00ffcc',
                     textColor: 'black'
                 },
