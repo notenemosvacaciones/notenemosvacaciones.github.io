@@ -267,6 +267,14 @@
                     color: '#cc6600',
                     textColor: 'white'
                 },
+                
+                {
+                    title: 'Angel Días',
+                    start: '2024-10-28',
+                    end: '2024-11-04',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
 
                 {
                     title: 'Bea incorporación',
