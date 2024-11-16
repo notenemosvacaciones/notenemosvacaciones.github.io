@@ -1205,6 +1205,14 @@
                     color: '#bbff99',
                     textColor: 'black'
                 },
+                
+                {
+                    title: 'Noe Invierno',
+                    start: '2024-11-11',
+                    end: '2024-11-18',
+                    color: '#bbff99',
+                    textColor: 'black'
+                },
 
                 {
                     title: 'Oscar día',
