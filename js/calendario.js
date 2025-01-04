@@ -1069,6 +1069,14 @@
                     color: '#ff33ff',
                     textColor: 'black'
                 },
+                
+                 {
+                    title: 'Mercedes Baja',
+                    start: '2024-12-30',
+                    end: '2025-01-07',
+                    color: '#ff33ff',
+                    textColor: 'black'
+                },
 
                 {
                     title: 'Mihaly día',
@@ -1170,6 +1178,14 @@
                     title: 'Monica Verano',
                     start: '2024-09-02',
                     end: '2024-09-16',
+                    color: '#696868',
+                    textColor: 'white'
+                },
+                
+                {
+                    title: 'Monica Baja',
+                    start: '2025-01-02',
+                    end: '2025-01-07',
                     color: '#696868',
                     textColor: 'white'
                 },
