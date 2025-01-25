@@ -275,6 +275,22 @@
                     color: '#cc6600',
                     textColor: 'white'
                 },
+                
+                {
+                    title: 'Angel Invierno',
+                    start: '2025-01-27',
+                    end: '2025-02-10',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
+                
+                {
+                    title: 'Angel Días',
+                    start: '2025-02-10',
+                    end: '2025-02-17',
+                    color: '#cc6600',
+                    textColor: 'white'
+                },
 
                 {
                     title: 'Bea incorporación',
@@ -432,6 +448,30 @@
                     title: 'David Rejón Días',
                     start: '2024-08-26',
                     end: '2024-09-02',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+                
+                 {
+                    title: 'David Rejón Día',
+                    start: '2025-01-10',
+                    end: '2025-01-10',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+                
+                {
+                    title: 'David Rejón Día',
+                    start: '2025-01-17',
+                    end: '2025-01-17',
+                    color: '#996633',
+                    textColor: 'white'
+                },
+                
+                {
+                    title: 'David Rejón Día',
+                    start: '2025-01-24',
+                    end: '2025-01-24',
                     color: '#996633',
                     textColor: 'white'
                 },
@@ -813,6 +853,22 @@
                     color: '#b01a9f',
                     textColor: 'white'
                 },
+                
+                {
+                    title: 'Luis Día',
+                    start: '2025-01-21',
+                    end: '2025-01-21',
+                    color: '#b01a9f',
+                    textColor: 'white'
+                },
+                
+                {
+                    title: 'Luis Día',
+                    start: '2025-01-22',
+                    end: '2025-01-22',
+                    color: '#b01a9f',
+                    textColor: 'white'
+                },
 
                 {
                     title: 'Mayte baja',
@@ -1073,7 +1129,7 @@
                  {
                     title: 'Mercedes Baja',
                     start: '2024-12-30',
-                    end: '2025-01-07',
+                    end: '2025-02-20',
                     color: '#ff33ff',
                     textColor: 'black'
                 },
@@ -1226,6 +1282,30 @@
                     title: 'Noe Invierno',
                     start: '2024-11-11',
                     end: '2024-11-18',
+                    color: '#bbff99',
+                    textColor: 'black'
+                },
+                
+                {
+                    title: 'Noe Día',
+                    start: '2025-01-10',
+                    end: '2025-10-10',
+                    color: '#bbff99',
+                    textColor: 'black'
+                },
+                
+                 {
+                    title: 'Noe Día',
+                    start: '2025-01-17',
+                    end: '2025-10-17',
+                    color: '#bbff99',
+                    textColor: 'black'
+                },
+                
+                  {
+                    title: 'Noe Día',
+                    start: '2025-01-24',
+                    end: '2025-10-24',
                     color: '#bbff99',
                     textColor: 'black'
                 },
