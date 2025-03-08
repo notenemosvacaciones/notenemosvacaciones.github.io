@@ -307,6 +307,14 @@
                     color: '#ffc2b3',
                     textColor: 'black'
                 },
+                
+                {
+                    title: 'Daniel Incorporación',
+                    start: '2022-10-18',
+                    end: '2022-10-18',
+                    color: '#9c9a03',
+                    textColor: 'white'
+                },
 
                 {
                     title: 'Daniel Rejón Invierno',
@@ -480,6 +488,14 @@
                     title: 'David Rejón Verano',
                     start: '2024-09-16',
                     end: '2024-09-30',
+                    color: '#996633',
+                    textColor: 'white'
+                },  
+                
+                {
+                    title: 'David Rejón Invierno',
+                    start: '2025-03-10',
+                    end: '2025-03-24',
                     color: '#996633',
                     textColor: 'white'
                 },  
@@ -1165,6 +1181,14 @@
                     color: '#4D0000',
                     textColor: 'white'
                 },
+                
+                  {
+                    title: 'Mónica Incorporación',
+                    start: '2022-11-07',
+                    end: '2022-11-07',
+                    color: '#460455 ',
+                    textColor: 'white'
+                },
 
                 {
                     title: 'Monica día',
@@ -1289,7 +1313,7 @@
                 {
                     title: 'Noe Día',
                     start: '2025-01-10',
-                    end: '2025-10-10',
+                    end: '2025-01-10',
                     color: '#bbff99',
                     textColor: 'black'
                 },
@@ -1297,7 +1321,7 @@
                  {
                     title: 'Noe Día',
                     start: '2025-01-17',
-                    end: '2025-10-17',
+                    end: '2025-01-17',
                     color: '#bbff99',
                     textColor: 'black'
                 },
@@ -1305,7 +1329,15 @@
                   {
                     title: 'Noe Día',
                     start: '2025-01-24',
-                    end: '2025-10-24',
+                    end: '2025-01-24',
+                    color: '#bbff99',
+                    textColor: 'black'
+                },
+                
+                 {
+                    title: 'Noe Invierno',
+                    start: '2025-03-10',
+                    end: '2025-03-24',
                     color: '#bbff99',
                     textColor: 'black'
                 },
@@ -1567,14 +1599,6 @@
                 },
 
                 {
-                    title: 'Daniel Incorporación',
-                    start: '2022-10-18',
-                    end: '2022-10-18',
-                    color: '#9c9a03',
-                    textColor: 'white'
-                },
-
-                {
                     title: 'Rocío días',
                     start: '2024-06-24',
                     end: '2024-07-01',
@@ -1597,13 +1621,12 @@
                     color: '#8f3241',
                     textColor: 'white'
                 },
-
-
+                
                 {
-                    title: 'Mónica Incorporación',
-                    start: '2022-11-07',
-                    end: '2022-11-07',
-                    color: '#460455 ',
+                    title: 'Rocío día',
+                    start: '2025-03-04',
+                    end: '2025-03-04',
+                    color: '#8f3241',
                     textColor: 'white'
                 },
 
